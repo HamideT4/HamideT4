@@ -5,7 +5,8 @@ In addition to being a data developer, I am interested in network administration
 **Research Interest:**
 - 🔭 I am currently interested in the development of mobile applications
 - 📫 You can reach me at [HAMIDE](https://www.linkedin.com/in/hamid%C3%A9-mahamat-8457b0258/)
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmoustaphaousmane&layout=compact)](https://github.com/hmoustaphaousmane/github-readme-stats)
+
 
 
 **Languages and Tools**
