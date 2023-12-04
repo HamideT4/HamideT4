@@ -3,7 +3,7 @@ I am [HAMIDE MAHAMAT](https://hamidet4.github.io/), Data developer student in [T
 In addition to being a data developer, I am interested in network administration and machine learning.
 
 **Research Interest:**
-- 🔭 I am currently interested in the development of mobile applications
+- 🔭 I am currently interested in the development of web applications
 - 🌱 I’m currently learning Data Development : Machine Learning (Initiation), Data Warehousing and Data Visualization
 - 👯 I’m looking to collaborate on projects about data development and web development
 - 📫 You can reach me at [HAMIDE](https://www.linkedin.com/in/hamid%C3%A9-mahamat-8457b0258/)
